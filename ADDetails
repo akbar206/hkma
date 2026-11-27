@@ -1,0 +1,68 @@
+Enter staff email: achchan@hkma.gov.hk 
+ 
+Matching accounts: 1 
+ 
+========== STAFF INFORMATION ========== 
+ 
+ 
+Email      : achchan@hkma.gov.hk 
+FullName   : CHAN Cheuk-heen, Adrian 
+Username   : ACHCHAN 
+Rank       : 
+Department : Internal Audit Division 
+Division   : 
+Title      : M(IA)4 
+Company    : 
+Office     : 
+ADStatus   : Enabled 
+ 
+ 
+ 
+ 
+===== POSSIBLE ADDITIONAL STAFF ATTRIBUTES ===== 
+description: 2023011 
+info: OA-eHR 
+ 
+===== ALL AVAILABLE ATTRIBUTE NAMES ===== 
+accountexpires 
+adspath 
+badpasswordtime 
+badpwdcount 
+cn 
+codepage 
+countrycode 
+department 
+description 
+displayname 
+distinguishedname 
+dscorepropagationdata 
+givenname 
+info 
+initials 
+instancetype 
+lastlogoff 
+lastlogon 
+lastlogontimestamp 
+lockouttime 
+logoncount 
+mail 
+memberof 
+name 
+objectcategory 
+objectclass 
+objectguid 
+objectsid 
+primarygroupid 
+pwdlastset 
+samaccountname 
+samaccounttype 
+scriptpath 
+sn 
+telephonenumber 
+title 
+useraccountcontrol 
+userprincipalname 
+usnchanged 
+usncreated 
+whenchanged 
+whencreated
